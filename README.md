@@ -12,7 +12,7 @@
 <ul>
 <li>Node</li>
     <ul>
-        <li>Dependências: <code>express</code>, <code>@typescript-eslint/eslint-plugin</code>, <code>@typescript-eslint/parser</code>, <code>@hasezoey/typegoose</code>, <code>@types/express</code>, <code>@types/mongoose</code>, <code>@types/shortid</code>, , <code>cors</code>, <code>typescript</code>, <code>mongoose</code>, <code>nodemon</code>, <code>shortid</code>, <code>eslint</code></li>
+        <li>Dependências: <code>express</code>, <code>@typescript-eslint/eslint-plugin</code>, <code>@typescript-eslint/parser</code>, <code>@hasezoey/typegoose</code>, <code>@types/express</code>, <code>@types/mongoose</code>, <code>@types/shortid</code>, <code>cors</code>, <code>typescript</code>, <code>mongoose</code>, <code>nodemon</code>, <code>shortid</code>, <code>eslint</code></li>
     </ul>
 <li>Typescript</li>
 <li>MongoDB</li>
